@@ -1,0 +1,19 @@
+{
+  "name": "prod-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy to production",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "rahul singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
